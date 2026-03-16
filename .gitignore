@@ -2,5 +2,5 @@ fhe-env/
 __pycache__/
 *.pyc
 *.pyo
-*.ptx
+# *.ptx
 .env
